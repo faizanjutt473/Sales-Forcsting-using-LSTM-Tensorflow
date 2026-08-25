@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn[standard]
+tensorflow==2.15.0
+pandas
+numpy
+matplotlib
+scikit-learn
+python-multipart
+lightgbm
+vs code
